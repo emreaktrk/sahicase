@@ -2,7 +2,7 @@
 
 Kullanıcının giriş yaptıktan sonra, listenen kitapların içerisinden seçim, arama ve detay bilgisine ulaşabildiği bir uygulama istenmektedir.
 
-> **Mümkün olduğunca Jetpack Components kullanmanız süreçte avantaj sağlamaktadır.**
+_**Mümkün olduğunca Jetpack Components kullanmanız süreçte avantaj sağlamaktadır.**_
 
 ![design](./assets/design.png)
 
