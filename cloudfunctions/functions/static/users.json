@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1234,
+        "fullname": "John Doe",
+        "username": "john",
+        "email": "john@gmail.com",
+        "photoLink": "https://picsum.photos/id/433/200"
+    },
+    {
+        "id": 2000,
+        "fullname": "Jane Doe",
+        "username": "jane",
+        "email": "jane@gmail.com",
+        "photoLink": "https://picsum.photos/id/64/200"
+    }
+]
