@@ -23,8 +23,6 @@ Kullanıcının giriş yaptıktan sonra, listenen kitapların içerisinden seçi
 ### Book Details
 - Parametre olarak bir önceki ekrandan gelen **id** değeri ile detay bilgisi alınmalıdır.
 
----
-
 # Required Tech Stack
 - Jetpack Libraries
 - Room
@@ -32,8 +30,6 @@ Kullanıcının giriş yaptıktan sonra, listenen kitapların içerisinden seçi
 - Flow
 - Retrofit
 - Test
-
----
 
 # Design
 
@@ -46,8 +42,6 @@ Renk hex referansları aşağıdaki gibidir.
 | navy blue | ![#0E278C](https://via.placeholder.com/10/0E278C?text=+) #3F485F |
 
 Font olarak [Noto Serif](https://fonts.google.com/noto/specimen/Noto+Serif?stroke=Serif) kullanabilirsiniz.
-
----
 
 # API
 
@@ -175,13 +169,9 @@ Host bilgisi aşağıdaki gibidir.
 > }
 > ```
 
----
-
 # FAQ
 ### Harici kütüphane kullanabilir miyim?
 Evet, kullanabilirsiniz.
-
----
 
 # Feedback
 Geri bildirimleriniz için **fake@fake.com**'a mail atabilirsiniz.
