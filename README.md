@@ -71,7 +71,7 @@ Host bilgisi aşağıdaki gibidir.
 >`404`
 >```yaml
 >{
->  message: "User not found"
+>   message: "User not found"
 >}
 >```
 
