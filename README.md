@@ -119,14 +119,14 @@ Host bilgisi aşağıdaki gibidir.
 > ]
 > ```
 
->`404`
+> `404`
 >```yaml
 >{
->  message: "End of array"
+>   message: "End of array"
 >}
 >```
 
->> `500`
+> `500`
 > ```yaml
 > {
 >   message: "Unknown error occurred"
@@ -144,21 +144,21 @@ Host bilgisi aşağıdaki gibidir.
 > `200`
 > ```yaml
 > {
-> "author": "Dante Alighieri",
-> "country": "Italy",
-> "imageLink": "images/the-divine-comedy.jpg",
-> "language": "Italian",
-> "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
-> "pages": 928,
-> "title": "The Divine Comedy",
-> "year": 1315
+>   "author": "Dante Alighieri",
+>   "country": "Italy",
+>   "imageLink": "images/the-divine-comedy.jpg",
+>   "language": "Italian",
+>   "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+>   "pages": 928,
+>   "title": "The Divine Comedy",
+>   "year": 1315
 > }
 > ```
 
 >`404`
 >```yaml
 >{
->  message: "Book not found"
+>   message: "Book not found"
 >}
 >```
 
